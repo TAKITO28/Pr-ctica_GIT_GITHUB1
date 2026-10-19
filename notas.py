@@ -8,3 +8,8 @@ print("Cantidad de notas:", len(notas))
 from statistics import median
 
 print("Mediana de notas:", median(notas))
+
+if promedio >= 11:
+    print("El alumno está aprobado")
+else:
+    print("El alumno está desaprobado")
