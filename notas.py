@@ -1,4 +1,4 @@
-notas = [14, 16, 11, 18, 13]
+notas = [14, 16, 11, 18, 13,20,15,16,8]
 promedio = sum(notas) / len(notas)
 print("Promedio:", promedio)
 print("Nota maxima:", max(notas))
